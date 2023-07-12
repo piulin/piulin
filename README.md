@@ -15,4 +15,4 @@ In my free time I channel my energy into opensource stuff. I am currently workin
 </a>
 
 ### Visitor count
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" />
+<img src="https://profile-counter.glitch.me/piulin/count.svg" />
