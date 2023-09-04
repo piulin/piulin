@@ -10,7 +10,7 @@ In my free time I channel my energy into opensource stuff. I am currently workin
 <a href="https://github.com/piured/engine">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piured&repo=engine&theme=buefy" />
 </a>
-<a href="https://github.com/piured/courel.github.io">
+<a href="https://github.com/piured/courel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piured&repo=courel&theme=buefy" />
 </a>
 
